@@ -21,3 +21,19 @@ Presentación de resultados
 Organización del código
 Formato de números (con separadores de miles)
 Colores consistentes
+
+## 📁 Contenido
+
+- Exploración y limpieza de datos  
+- Análisis de ingresos  
+- Ventas por categoría y producto  
+- Satisfacción del cliente  
+- Costos de envío  
+- Visualizaciones con gráficos interactivos y descriptivos  
+- Informe final con conclusión y recomendación final
+  ## ⚙️ Instalación
+
+No es necesario instalar el proyecto localmente. Todo fue desarrollado en [Google Colab](https://colab.research.google.com/), por lo que solo necesitas:
+
+1. Tener una cuenta de Google.
+2. Abrir el archivo `.ipynb` con Google Colab.
